@@ -2,6 +2,12 @@
  
 # Pizza Sales Tableau Project
 
+
+## Tableau Dashboard Link  
+[Pizza Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/k.rim.a.ayev/viz/PIZZA_SALES/BESTWORSTSELLERS?publish=yes)
+
+
+
 ## Overview
 This project involves analyzing pizza sales data to derive key insights and trends. Using SQL, we performed essential calculations and prepared the data for visualization in Tableau. The aim of the project is to explore pizza sales performance and create an interactive Tableau dashboard to showcase the findings.
 
